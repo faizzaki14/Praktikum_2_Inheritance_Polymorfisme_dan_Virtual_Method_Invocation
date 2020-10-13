@@ -1,6 +1,6 @@
 package com.faizzakiramadhan.Modul2.VirtualMethodeInvocation;
 
-public class Child {
+public class Child extends Parent {
     public int Z = 7;
 
     public void getData(){
