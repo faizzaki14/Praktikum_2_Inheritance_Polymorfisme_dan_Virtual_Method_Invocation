@@ -1,6 +1,6 @@
 package com.faizzakiramadhan.Modul2.Tugas_Praktikum.No2;
 
-public class Main {
+public class DemoBinatang {
     public static void main(String[] args) {
         Binatang superclas = new Binatang();
 
