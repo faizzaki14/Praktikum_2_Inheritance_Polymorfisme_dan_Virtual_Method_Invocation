@@ -1,4 +1,4 @@
-package com.faizzakiramadhan.Modul2.Polymorfisme;
+package com.faizzakiramadhan.Modul2.Praktikum.Polymorfisme;
 
 public class DemoOverRiding {
     public static void main(String[] args) {

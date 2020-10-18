@@ -1,6 +1,4 @@
-package com.faizzakiramadhan.Modul2.VirtualMethodeInvocation;
-
-import org.w3c.dom.xpath.XPathResult;
+package com.faizzakiramadhan.Modul2.Praktikum.VirtualMethodeInvocation;
 
 public class DemoVMI {
     public static void main(String[] args) {

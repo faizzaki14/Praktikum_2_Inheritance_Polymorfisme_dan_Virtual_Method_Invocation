@@ -1,4 +1,4 @@
-package com.faizzakiramadhan.Modul2.Inheritance;
+package com.faizzakiramadhan.Modul2.Praktikum.Inheritance;
 
 public class B extends A {
     public int Z;

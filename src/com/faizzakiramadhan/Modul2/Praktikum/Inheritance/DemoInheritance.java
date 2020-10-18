@@ -1,4 +1,4 @@
-package com.faizzakiramadhan.Modul2.Inheritance;
+package com.faizzakiramadhan.Modul2.Praktikum.Inheritance;
 
 public class DemoInheritance {
     public static void main(String[] args) {

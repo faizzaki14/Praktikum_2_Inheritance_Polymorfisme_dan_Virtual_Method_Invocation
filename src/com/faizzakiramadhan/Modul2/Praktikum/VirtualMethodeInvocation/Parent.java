@@ -1,4 +1,4 @@
-package com.faizzakiramadhan.Modul2.VirtualMethodeInvocation;
+package com.faizzakiramadhan.Modul2.Praktikum.VirtualMethodeInvocation;
 
 public class Parent {
     public int X = 5;

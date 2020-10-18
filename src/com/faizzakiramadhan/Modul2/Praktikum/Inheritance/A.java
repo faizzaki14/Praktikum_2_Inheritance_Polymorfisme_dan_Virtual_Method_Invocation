@@ -1,4 +1,4 @@
-package com.faizzakiramadhan.Modul2.Inheritance;
+package com.faizzakiramadhan.Modul2.Praktikum.Inheritance;
 
 public class A {
     public int X;
